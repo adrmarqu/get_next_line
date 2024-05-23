@@ -1,0 +1,8 @@
+.
+..
+.DS_Store
+a.out
+*.gch
+*.txt
+*.swp
+main.c
